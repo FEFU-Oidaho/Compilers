@@ -13,7 +13,7 @@
 ### Домашнее задание 1
 Вариант N2. <br>
 Задачи на суффиксы\префиксы\цепочки, языки. <br>
-MD файл находится в папке [ДЗ-1](#https://github.com/FEFU-Oidaho/Compilers/blob/main/%D0%94%D0%97-1/answers.md).
+MD файл находится в папке [ДЗ-1](https://github.com/FEFU-Oidaho/Compilers/blob/main/%D0%94%D0%97-1/answers.md).
 
 ---
 
@@ -21,6 +21,6 @@ MD файл находится в папке [ДЗ-1](#https://github.com/FEFU-O
 Вариант N2. <br>
 Это должна была быть СР. <br>
 Задачи на языки, грамматики и их типы.  <br>
-MD файл и код находятся в папке [ДЗ-2](#https://github.com/FEFU-Oidaho/Compilers/blob/main/%D0%94%D0%97-2/answers.md).
+MD файл и код находятся в папке [ДЗ-2](https://github.com/FEFU-Oidaho/Compilers/blob/main/%D0%94%D0%97-2/answers.md).
 
 ---
